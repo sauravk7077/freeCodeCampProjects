@@ -1,1 +1,3 @@
 # freeCodeCampProjects
+
+Frontend Project - calculator
