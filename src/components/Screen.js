@@ -2,8 +2,8 @@ import React from "react";
 
 function Screen(props) {
     return(
-        <div>
-            <input id="display" value={props.value} readOnly></input>
+        <div className="content">
+            <input id={props.id} value={props.value} readOnly></input>
         </div>
     )
 }
